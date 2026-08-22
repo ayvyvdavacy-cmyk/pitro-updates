@@ -1,7 +1,7 @@
 {
     "version":  3,
     "exe":  "https://raw.githubusercontent.com/ayvyvdavacy-cmyk/pitro-updates/main/pitro/PitroLauncher.exe",
-    "exeSha256":  "947fa0477dbc760aaf7f11e87db770a3fa1e057162ab72c9041e1b8e3600b3cc",
+    "exeSha256":  "a5d6b2fcd679da55dd1ba8ea1a6e59a1b9315e87bbe0f77c8b5294f9f9fee3a1",
     "mod":  "https://raw.githubusercontent.com/ayvyvdavacy-cmyk/pitro-updates/main/pitro/pitro-v1.jar",
     "modSha256":  "78cd41b527e7f02f69b17dcc1001fe54c69bd5336a1020529a94e3d6b56a841a"
 }
