@@ -1,5 +1,8 @@
 PitroClient — история обновлений
 
+v25
+- Swing Animation: новые анимации «Tornado» (вращение предмета) и «Drop Bounce» (падение с отскоком)
+
 v24
 - Swing Animation: новая анимация удара «Punch» (резкий выпад вперёд)
 
