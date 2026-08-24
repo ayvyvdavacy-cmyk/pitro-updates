@@ -1,5 +1,8 @@
 PitroClient — история обновлений
 
+v26
+- Swing Animation: +19 новых анимаций удара — Interact, Spring, Snap, Zero, Arc Slide, Helix, Windmill, Orbit, Coin Flip, Expand, Scale Pulse, Squash & Stretch, Uppercut, Slap, Fencing, Boomerang, Glitch, Wobble, Reverse, Gravity
+
 v25
 - Swing Animation: новые анимации «Tornado» (вращение предмета) и «Drop Bounce» (падение с отскоком)
 
