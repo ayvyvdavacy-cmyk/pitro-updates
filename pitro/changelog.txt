@@ -1,5 +1,8 @@
 PitroClient — история обновлений
 
+v24
+- Swing Animation: новая анимация удара «Punch» (резкий выпад вперёд)
+
 v23
 - Totem Voices: новый звук «Взрыв»
 
