@@ -1,5 +1,8 @@
 PitroClient — история обновлений
 
+v41
+- Обновления переведены с raw.githubusercontent.com на зеркало jsDelivr (cdn.jsdelivr.net) — обход блокировки GitHub raw CDN, исправление ошибки "Невозможно соединиться с удаленным сервером" при загрузке Java/локалезер
+
 v40
 - KillAura Reallyworld: убран RotationController полностью — прямая установка player yaw/pitch как в Legit, без GCD-snap и стейт-машины
 
